@@ -1,7 +1,12 @@
-p {
+.editor-note {
   color: red;
 }
 
 html {
   background-color: #00539F;
+}
+
+body {
+  background-color: orange;
+  width: 80%;
 }
