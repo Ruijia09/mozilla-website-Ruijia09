@@ -11,4 +11,7 @@ myHeading.textContent = 'Hello world!';
  
  // Assign the function to the onclick event on that element
  foxImage.onclick = sayOuch;
- 
+
+ function toggleImage(){
+  document.querySelector('img').classList.toggle('hidden');
+}

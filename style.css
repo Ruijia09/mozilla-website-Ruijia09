@@ -46,3 +46,16 @@ img {
   display: block;
   margin: 0 auto;
 }
+
+.hidden{
+  display: none;
+}
+
+.w-100{
+  width: 100%;
+}
+
+.mb-10{
+  margin-bottom: 10px;
+}
+
